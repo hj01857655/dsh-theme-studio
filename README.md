@@ -1,8 +1,9 @@
-> **This plugin now lives in the monorepo: [hj01857655/dsh-plugins](https://github.com/hj01857655/dsh-plugins) → [`packages/dsh-theme-studio`](https://github.com/hj01857655/dsh-plugins/tree/main/packages/dsh-theme-studio).**
+> **已迁到 monorepo：[hj01857655/dsh-plugins](https://github.com/hj01857655/dsh-plugins) → [`packages/dsh-theme-studio`](https://github.com/hj01857655/dsh-plugins/tree/main/packages/dsh-theme-studio)。**
 >
-> Development and publishing continue there — `dsh-theme-studio@0.7.0` and later are built and released from the monorepo. This repository is kept only for history and for the three original external pull requests, which were migrated to the monorepo as [#1](https://github.com/hj01857655/dsh-plugins/pull/1) (apply the stored theme at startup), [#2](https://github.com/hj01857655/dsh-plugins/pull/2) (Low Contrast preset) and [#3](https://github.com/hj01857655/dsh-plugins/pull/3) (One Dark preset), each carrying its original author and commit message.
+> 开发与发布都在那边：`dsh-theme-studio@0.7.0` 及以后的版本由 monorepo 构建并发布，本仓只保留历史与下面那三个原始 PR（已迁为 monorepo 的 [#1](https://github.com/hj01857655/dsh-plugins/pull/1) 启动时应用已存主题、[#2](https://github.com/hj01857655/dsh-plugins/pull/2) Low Contrast 预设、[#3](https://github.com/hj01857655/dsh-plugins/pull/3) One Dark 预设，各自的作者与提交信息原样保留）。新的 issue 与 PR 请提到 monorepo。
 >
-> New issues and pull requests belong in the monorepo.
+> **Moved to the monorepo: [hj01857655/dsh-plugins](https://github.com/hj01857655/dsh-plugins) → [`packages/dsh-theme-studio`](https://github.com/hj01857655/dsh-plugins/tree/main/packages/dsh-theme-studio).**
+> `dsh-theme-studio@0.7.0` and later are built and published from there. This repository keeps only history and the three original pull requests listed above, each of which was migrated to the monorepo with its original author and commit message. New issues and pull requests belong in the monorepo.
 # dsh-theme-studio
 
 [![npm version](https://img.shields.io/npm/v/dsh-theme-studio?color=cb3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/dsh-theme-studio)
