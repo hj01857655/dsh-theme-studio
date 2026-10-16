@@ -1,3 +1,8 @@
+> **This plugin now lives in the monorepo: [hj01857655/dsh-plugins](https://github.com/hj01857655/dsh-plugins) → [`packages/dsh-theme-studio`](https://github.com/hj01857655/dsh-plugins/tree/main/packages/dsh-theme-studio).**
+>
+> Development and publishing continue there — `dsh-theme-studio@0.7.0` and later are built and released from the monorepo. This repository is kept only for history and for the three original external pull requests, which were migrated to the monorepo as [#1](https://github.com/hj01857655/dsh-plugins/pull/1) (apply the stored theme at startup), [#2](https://github.com/hj01857655/dsh-plugins/pull/2) (Low Contrast preset) and [#3](https://github.com/hj01857655/dsh-plugins/pull/3) (One Dark preset), each carrying its original author and commit message.
+>
+> New issues and pull requests belong in the monorepo.
 # dsh-theme-studio
 
 [![npm version](https://img.shields.io/npm/v/dsh-theme-studio?color=cb3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/dsh-theme-studio)
